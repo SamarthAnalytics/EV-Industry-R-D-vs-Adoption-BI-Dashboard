@@ -13,7 +13,7 @@ Does higher R&D intensity correlate with market growth and adoption success?
 
 Insights:
 
-Global EV adoption grew ~18% YoY, while R&D intensity only increased ~9% YoY — revealing an innovation gap.
+Global EV adoption grew ~18% YoY, while R&D intensity only increased 9% YoY — revealing an innovation gap.
 
 Rivian invests nearly 38% of its revenue into R&D, outperforming Toyota (3.4%) and GM (4.9%).
 
@@ -21,11 +21,11 @@ Companies with 6–8% R&D intensity achieved the highest revenue growth, suggest
 
 Tech Stack:
 
-🧠 AI & Analytics: Python (Pandas, NumPy, Scikit-learn)
+# AI & Analytics: Python (Pandas, NumPy, Scikit-learn)
 
-📊 Visualization: Looker Studio (Google Data Studio)
+# Visualization: Looker Studio (Google Data Studio)
 
-⚙️ Data: Custom CSV datasets — EV share, R&D ratio, and automation levels
+# Data: Custom CSV datasets — EV share, R&D ratio, and automation levels
 
 Highlights:
 
