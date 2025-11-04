@@ -1,4 +1,7 @@
 # EV-Industry-R-D-vs-Adoption-BI-Dashboard
+
+Dashboard link: https://lookerstudio.google.com/u/0/reporting/f962250f-485c-4e08-928b-ec76e54a3d43/page/TN1dF
+
 An AI-powered analytics dashboard exploring how automaker R&amp;D investments align with global EV adoption trends from 2018–2025.
 
 Built with Python for preprocessing and trend modeling, and Looker Studio for visualization, the project quantifies the pace of innovation in the EV industry by comparing R&D intensity (% of revenue) against EV adoption growth.
